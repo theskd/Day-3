@@ -1,0 +1,59 @@
+{
+    "basics": {
+      "name": "Sai Krishnanand T",
+      "email": "krishnanandkd05@gmail.com",
+      "phone": "+919494377563.",
+      "degree": "BE Computer Science and Engineering",
+      "summary": "A one-sentence to one-paragraph overview text. Do not include any line-breaks.",
+      "location": {
+        "address": "Alwarpet, Chennai",
+        "postalCode": "600018",
+        "city": "Chennai",
+        "countryCode": "IND",
+        "region": "Tamil Nadu"
+      },
+      "profiles": [
+        {
+          "LinkedIN": "A social media or other profile that you would like to include (e.g. LinkedIn, Twitter)",
+          "Instagram username": "@the_skd_",
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "TCS",
+        "position": "System Engineer",
+        //"website": "The URL for the employer's website",
+        "startDate": "05-08-2022",
+        "endDate": "Currently working",
+        //"summary": "A one-sentence to one-paragraph summary of this employer or position",
+        //"highlights": [
+        //  "Bullet-point list items that you would like to include along with (or instead of) a summary paragraph."
+        //]
+      }
+    ],
+    
+    "skills": [
+      {
+        "name": "Programming Languages",
+        "level": "",
+        "keywords": [
+          "Javascript & Python"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Malayalam, English, Tamil, Telugu & Hindi",
+        "fluency": "English & Hindi"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Sports",
+        "keywords": [
+          "Football, Table tennis & Handball"
+        ]
+      }
+    ]
+  }
